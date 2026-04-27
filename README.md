@@ -1,38 +1,40 @@
-# Hi, I'm Samandeep Kaur
+# Samandeep Kaur | Data Analyst Portfolio
+UK-based data analyst with an MBA in Business Analytics and Marketing, focused on Python, SQL, and Power BI projects with clear commercial outcomes.
 
-Data Analyst based in Slough, UK. MBA in Business Analytics and Marketing.
-Currently building a portfolio of end-to-end analytics projects targeting Junior Data Analyst roles across the Thames Valley.
-
----
-
-## Portfolio Projects
-
-| Project | Description | Tech Stack | Key Finding |
-|---------|-------------|------------|-------------|
-| [Retail Deep Dive](https://github.com/Samandeep-Kaur-Data-UK/retail_deep_dive) | End-to-end UK e-commerce analytics: cleaning, SQL segmentation, Power BI dashboard | Python, SQL, SQLite, Power BI | 67% repeat purchase rate, £8.8M revenue, 460 Champions identified via RFM |
-| [AI Marketing Pipeline](https://github.com/Samandeep-Kaur-Data-UK/ai_marketing_pipeline) | Sentiment analysis pipeline on customer reviews with automated reporting | Python, VADER, DistilBERT, Power BI | Automated sentiment classification across thousands of reviews |
-| [ROI Optimizer](https://github.com/Samandeep-Kaur-Data-UK/roi_optimizer) | Marketing Mix Model to calculate ROI per channel and optimise budget allocation | Python, Statsmodels, Pandas, Power BI | TV returns £1.06 per £1 spent; removing it cuts predicted sales by 58.5% |
+**Location:** Slough, United Kingdom  
+**Target Roles:** Junior Data Analyst, BI Analyst, Marketing Analyst  
+**Focus:** Thames Valley and wider UK opportunities
 
 ---
 
-## Tech Stack
+## Featured Projects
 
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, Matplotlib, Statsmodels, Scikit-learn, VADER, DistilBERT
-- **BI Tools:** Power BI, DAX
-- **Databases:** SQLite
-- **Tools:** Git, GitHub, VS Code
+| Project | What It Shows | Tech Stack | Headline Result |
+|---------|---------------|------------|-----------------|
+| [Retail Deep Dive](https://github.com/Samandeep-Kaur-Data-UK/retail_deep_dive) | End-to-end retail analytics from raw data cleaning to customer segmentation dashboard | Python, SQL, SQLite, Power BI | £8.80M revenue analysed, 67.06% repeat purchase rate, 460 Champion customers identified |
+| [AI Marketing Pipeline](https://github.com/Samandeep-Kaur-Data-UK/ai_marketing_pipeline) | Sentiment pipeline comparing VADER and DistilBERT with automated reporting and source comparison | Python, NLP, Scikit-learn, Power BI | DistilBERT selected for stronger negative-sentiment detection across 1,500 combined records |
+| [ROI Optimizer](https://github.com/Samandeep-Kaur-Data-UK/roi_optimizer) | Marketing Mix Model translating channel performance into ROI and budget decisions | Python, Statsmodels, Pandas, Power BI | TV returns £1.06 per £1 spent; removing it cuts predicted sales by 58.50% |
 
 ---
 
-## Currently
+## Core Stack
 
-- Day 71 of a self-directed 120-day data analytics programme
-- Targeting Junior Data Analyst roles in Thames Valley (Reading, Slough, Newbury)
-- Open to opportunities — feel free to reach out
+- Python for data cleaning, automation, modelling, and reporting
+- SQL and SQLite for analytical querying and segmentation workflows
+- Power BI and DAX for dashboard design and stakeholder-ready storytelling
+- Pandas, Scikit-learn, Statsmodels, and NLP tooling for applied analytics projects
+- Git and GitHub for version control and portfolio presentation
+
+---
+
+## What Recruiters Will Find Here
+
+- Three end-to-end analytics projects with code, outputs, screenshots, and documentation
+- Evidence of commercial thinking, not just technical implementation
+- Portfolio work grounded in retail, marketing, and budget optimisation use cases relevant to UK employers
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/saman78)
+- [LinkedIn](https://www.linkedin.com/in/saman78)
