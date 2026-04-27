@@ -30,6 +30,7 @@ UK-based data analyst with an MBA in Business Analytics and Marketing, focused o
 ## What Recruiters Will Find Here
 
 - Three end-to-end analytics projects with code, outputs, screenshots, and documentation
+- A concise [portfolio summary](PORTFOLIO_SUMMARY.md) with one business-value paragraph per project
 - Evidence of commercial thinking, not just technical implementation
 - Portfolio work grounded in retail, marketing, and budget optimisation use cases relevant to UK employers
 
