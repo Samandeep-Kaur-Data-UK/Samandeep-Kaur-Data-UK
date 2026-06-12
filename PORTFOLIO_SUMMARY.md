@@ -8,3 +8,6 @@ This project built an end-to-end sentiment reporting pipeline for customer revie
 
 ## ROI Optimizer
 This project built a Marketing Mix Model to estimate which advertising channels generate the strongest return and how a future budget should be allocated. Using adstock, OLS regression, ROI calculations, and scenario analysis, the model showed TV returning £1.06 per £1 spent while removing it would reduce predicted sales by 58.50%. The commercial value is direct budget decision support: instead of relying on instinct, a stakeholder can use the model to compare scenarios, reduce inefficient spend, and justify allocation changes with evidence.
+
+## Marketing Attribution Engine
+This project solves the silo problem between marketing and sales systems: GA4 sees clicks and sessions, the CRM sees deals and revenue, and neither knows about the other. A Python and SQL pipeline joins 7,243 web sessions to 994 CRM deals at user grain, applies First Touch and Last Touch attribution with SQL window functions, and ships one Tableau-ready table that attributes £4.91M of closed revenue back to the campaigns that earned it. The commercial value is honest budget allocation: the same dataset shows that changing the attribution model moves over £200K of credit away from Facebook, which is exactly the kind of decision a marketing team gets wrong when it only looks at traffic.
